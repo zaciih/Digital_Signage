@@ -4,6 +4,17 @@ h1 {
   font-size: 80px;
 }
 
+h2 {
+  position: fixed;
+  color: white;
+  -webkit-text-stroke: 3px grey;
+  text-shadow: 5px 5px grey;
+  font-size: 200px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 img {
   height: 1080px;
   /* width: 1920px; */

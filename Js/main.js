@@ -15,7 +15,7 @@ $(document).ready(function(){
         video[0].play();
     } else if ($('#pre_vid3').hasClass("active")) {
         var video = $('#vid_3')
-        video.attr("src", "https://www.youtube.com/embed/Lr4fnx6wNfM?autoplay=1")
+        video.attr("src", "https://www.youtube.com/embed/4JRkkLwdygA?autoplay=1&mute=1")
     }
   });
 });
